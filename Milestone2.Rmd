@@ -10,6 +10,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Project 1: Investigating Demographics within Higher Education Engineering Programs,
-# by, Jessica Edwards
+### by Jessica Edwards
 
 In this project, Jessica does a great job with a wide variety of visualizations. One of the project requirements is that it must be interactive, and hers has several different interactive features, including letting you select which demographic data to sort by, which school to view, and different tabs (demographics, retention at Harvard, effect of representation size). I'm also impressed that her "About" tab links to GitHub, LinkedIn, and email, as well as the original data source. One very small complaint is that the links do not automatically open in a new tab. I'm also not sure that the data required much cleaning since it appears to all come from a single source. 
+
+## Project 2: The "Purple" Sunshine State: Florida's Population & Politics
+### by Debora Gonzalez
+
+This project does extensive data gathering and cleaning since it combines data from two sources, the U.S. Census Bureau and the Florida Department of State, in addition to the Tigris R package to create a county-level map of Florida. Like in Jessica's project, Debora's maps are informative and interactive, allowing the reader to customize the visualization based on what they are most interested in. I do think that the Changes in Political Allegiance Over Time graph could be made more clear if she had chosen different colors to represent the various lines. The lime green is a little hard to read. Additionally, the chart on the third tab is so large that as you scroll down you can no longer see what each column was labeled. I think it would be much more clear if you could "freeze" those first few rows, or re-post them periodically throughout the page. 
+
+
