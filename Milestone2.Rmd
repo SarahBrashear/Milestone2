@@ -8,3 +8,8 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+## Project 1: Investigating Demographics within Higher Education Engineering Programs,
+# by, Jessica Edwards
+
+In this project, Jessica does a great job with a wide variety of visualizations. One of the project requirements is that it must be interactive, and hers has several different interactive features, including letting you select which demographic data to sort by, which school to view, and different tabs (demographics, retention at Harvard, effect of representation size). I'm also impressed that her "About" tab links to GitHub, LinkedIn, and email, as well as the original data source. One very small complaint is that the links do not automatically open in a new tab. I'm also not sure that the data required much cleaning since it appears to all come from a single source. 
